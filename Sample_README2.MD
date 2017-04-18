@@ -1,10 +1,10 @@
 # Project Title
 
-## Describtion 
+## Description 
 One Paragraph of project description goes here
 
 ## Prerequisites
-- List all the depnedancies 
+- List all the dependencies 
 - List what to install and how to install it
 
 ## Installation
