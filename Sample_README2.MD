@@ -1,28 +1,28 @@
 # Project Title
 
-### Describtion 
+## Describtion 
 One Paragraph of project description goes here
 
-### Prerequisites
+## Prerequisites
 - List all the depnedancies 
 - List what to install and how to install it
 
-### Installation
+## Installation
 - A step by step instructions on how to install the software 
 
 ``` Example that shows how the software works
 ```
 
-### Contributing
+## Contributing
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
-### License
+## License
 Provide Licensing information
 
-### Citation
+## Citation
 * How this software can be cited. 
 * Provide a DOI that was generated.
 
-### Contact
+## Contact
 * Link to e-mail addresses or URIs
