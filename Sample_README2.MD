@@ -10,7 +10,8 @@ One Paragraph of project description goes here
 ## Installation
 - A step by step instructions on how to install the software 
 
-``` Example that shows how the software works
+```
+Example that shows how the software works
 ```
 
 ## Contributing
